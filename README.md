@@ -1,5 +1,5 @@
 <section>
-  <h2>STA220: Practice of Statistics I (University of Toronto)</h2>
+  <h1>📘 STA220: Practice of Statistics I (University of Toronto)</h1>
 
   <p>
     <strong>STA220</strong> is an introductory course in applied statistics focused on developing practical skills
